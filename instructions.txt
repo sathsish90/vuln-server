@@ -1,0 +1,35 @@
+Key Points To Remember:
+========================
+
+* Exam 
+* Results
+* 8 Hours Exam
+* No internet/Mobile
+* Logs are monitored
+* Payloads should be submitted based on their Name.
+* Static IP will be assigned
+* Screenshots has to be submitted on the same day.
+* Report template will be shared. Report should be submitted by next day evening 6 PM
+* All the issues should have proper reproducting steps.
+
+==============================================================================================
+
+* Focus on application completely.
+* Prepare a checklist for testing.
+* information gathering
+* OWASP Top 10
+* Remember its not completely owasp top 10.
+* Marks are given for your logical thinking. (The more bug gives u more mark.)
+* Manage your TIME. 1st half - 10 - 1 (3 hrs - 1 server.) & 2nd half (2 - 6 - 2nd server)
+* Report can only show your ability (So focus on every single screenshots)
+* Use your name to create screenshots (eg: <script>alert('Sathish');</script>)
+* Dont talk. 
+======================================
+
+* Add known vulnerable components to Server 01. (Drupal SQL injection in Login page)
+* Change machine name as given time (10 - 1 PM)
+* Clone server and keep it.
+* List of vulnerabilities in Server 01 and 02
+* Server 02 - Keep reset password in Outside Login (IDOR - changing username change other user password)
+* Login page with SQL injection (Admin username - correct username, incorrect password. SQL injection in Password variable)
+
